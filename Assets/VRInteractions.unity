@@ -38885,8 +38885,8 @@ GameObject:
   - component: {fileID: 1306175193}
   - component: {fileID: 1306175192}
   - component: {fileID: 1306175191}
-  - component: {fileID: 1306175190}
   - component: {fileID: 1306175195}
+  - component: {fileID: 1306175190}
   - component: {fileID: 1306175196}
   m_Layer: 0
   m_Name: JoyStick
